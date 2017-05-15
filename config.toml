@@ -1,0 +1,61 @@
+baseurl             = "https://r7v.me/"
+builddrafts         = false
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "en-US"
+layoutdir           = "layouts"
+publishdir          = "public"
+theme               = "cocoa"
+author              = "Roman Sokolkov"
+title               = "Roman Sokolkov - personal page"
+pygmentsuseclasses  = true
+# disqusshortname   = "" # Comment out to disable Disqus.
+pluralizelisttitles = false
+# googleAnalytics     = "UA-123-45"
+
+[permalinks]
+fixed = ":title/"
+blog  = "blog/:slug/"
+
+[[menu.main]]
+name                   = "Blog"
+weight                 = -120
+identifier             = "blog"
+url                    = "/blog/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Code"
+weight                 = -100
+identifier             = "code"
+url                    = "//github.com/rsokolkov/"
+
+[params]
+latestpostscount       = 5
+i18n_flags             = false
+author                 = "Roman Sokolkov"
+cachebuster            = true
+dateform               = "Jan 2, 2006"
+dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+description            = "Personal blog"
+# email                = "rsokolkov@gmail.com"
+extracssfiles          = [ "/css/override.css" ]
+faviconfile            = "img/tux.ico"
+github                 = "//github.com/rsokolkov"
+highlightjs            = true
+lang                   = "en"
+linkedin               = "//linkedin.com/in/roman-sokolkov-7309163b"
+noshowreadtime         = false
+selfintro              = ""
+# twitter              = "//twitter.com/you"
+# mastodon             = "//example.com/@you"
+# highlightjslanguages = ["go"]
+# highlightjsStyle     = "darcula"
+
+avatar                 = "img/profile.png"
+# gravatar             = ""                # do not use in the same time as avatar
