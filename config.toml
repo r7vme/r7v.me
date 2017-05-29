@@ -33,7 +33,7 @@ url                    = "/about/"
 name                   = "Code"
 weight                 = -100
 identifier             = "code"
-url                    = "//github.com/rsokolkov/"
+url                    = "//github.com/r7vme/"
 
 [params]
 latestpostscount       = 5
@@ -46,7 +46,7 @@ description            = "Personal blog"
 # email                = "rsokolkov@gmail.com"
 extracssfiles          = [ "/css/override.css" ]
 faviconfile            = "img/tux.ico"
-github                 = "//github.com/rsokolkov"
+github                 = "//github.com/r7vme/"
 highlightjs            = true
 lang                   = "en"
 linkedin               = "//linkedin.com/in/roman-sokolkov-7309163b"
