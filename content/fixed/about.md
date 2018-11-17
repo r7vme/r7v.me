@@ -5,7 +5,7 @@ title = "About"
 
 +++
 
-Arch linuxer and geek currently working as site reliability engineer.
+Arch linuxer and geek currently working as a site reliability engineer.
 
 ### Keys
 
