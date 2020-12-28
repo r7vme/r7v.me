@@ -1,4 +1,5 @@
 ---
+draft: true
 title: How to upload files thru rdp from linux
 author: rsokolkov
 type: post

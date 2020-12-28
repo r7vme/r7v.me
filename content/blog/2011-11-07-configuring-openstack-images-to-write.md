@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Configuring Openstack images to write in console.log
 author: rsokolkov
 type: post

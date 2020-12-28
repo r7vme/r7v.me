@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Deploy Openstack by FUEL on libvirt: pre-install network configuration'
 author: rsokolkov
 type: post

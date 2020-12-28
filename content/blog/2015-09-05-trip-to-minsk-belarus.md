@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Trip to Minsk, Belarus
 author: rsokolkov
 type: post

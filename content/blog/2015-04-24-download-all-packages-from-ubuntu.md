@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Download all packages from Ubuntu repository
 author: rsokolkov
 type: post

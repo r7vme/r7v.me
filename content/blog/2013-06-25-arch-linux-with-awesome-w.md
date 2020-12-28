@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Arch Linux with Awesome wm
 author: rsokolkov
 type: post

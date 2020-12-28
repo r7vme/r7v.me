@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Open port with firewalld (systemd)
 author: rsokolkov
 type: post

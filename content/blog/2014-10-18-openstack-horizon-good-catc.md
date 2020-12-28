@@ -1,4 +1,5 @@
 ---
+draft: true
 title: OpenStack Horizon good catch
 author: rsokolkov
 type: post

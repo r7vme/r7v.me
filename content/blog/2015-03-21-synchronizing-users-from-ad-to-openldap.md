@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Synchronizing users with LSC-project
 author: rsokolkov
 type: post

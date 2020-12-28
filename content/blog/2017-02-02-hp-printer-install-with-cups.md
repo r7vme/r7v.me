@@ -1,4 +1,5 @@
 ---
+draft: true
 title: hp printer install with cups
 author: rsokolkov
 type: post

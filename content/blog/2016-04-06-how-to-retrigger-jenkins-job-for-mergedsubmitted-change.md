@@ -1,4 +1,5 @@
 ---
+draft: true
 title: How to retrigger Jenkins job for merged/submitted change?
 author: rsokolkov
 type: post

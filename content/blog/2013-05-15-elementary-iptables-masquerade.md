@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Elementary iptables MASQUERADE
 author: rsokolkov
 type: post

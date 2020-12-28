@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Ubuntu splits all after 127.0.0.1 in dns-nameservers flag
 author: rsokolkov
 type: post

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Second trip to India
 author: rsokolkov
 type: post

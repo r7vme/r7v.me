@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Put a specific validation.pem into chef-server
 author: rsokolkov
 type: post

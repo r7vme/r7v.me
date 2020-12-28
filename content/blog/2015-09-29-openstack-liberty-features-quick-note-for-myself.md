@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'OpenStack Liberty features [quick note for myself]'
 author: rsokolkov
 type: post

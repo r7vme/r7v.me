@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Keystone. Synchronize users from AD to OpenLDAP [python script]'
 author: rsokolkov
 type: post

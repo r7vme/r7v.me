@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Rebuild CirrOS tiny cloud image for VMware
 author: rsokolkov
 type: post

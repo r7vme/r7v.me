@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Updating BIOS with USB stick on Thinkpad (Linux)
 author: rsokolkov
 type: post

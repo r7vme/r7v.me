@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Replace dns server in running app
 author: rsokolkov
 type: post

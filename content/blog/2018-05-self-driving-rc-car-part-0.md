@@ -1,7 +1,6 @@
 +++
 date = "2018-05-24"
 title = "Self-driving RC Car. Part 0: How I Started With Machine Learning"
-
 +++
 
 I had no idea about machine learning at all. Most of the “stackoverflow” answers were like “Pick up some existing framework and do hello world examples”, which does not makes any sense for me at all. Tons of frameworks, tons of ML libraries, tons of ML algorithms and you are sitting with your “hello world” [Keras](https://keras.io/) script 20 lines long like “OK, i’m data scientist now”. Imo you need to have at least some idea how it works under the hood. But it’s not black and white of course. Having a “real world” problem to solve one of the keys to success, not only theory. Moreover problem must be solved by someone else. In my case, it was a prototype of RC car capable to self-drive between two lines. I did a quick research and fortunately there were multiple projects that solved this problem and provided decent documentation. I’ve decided to try build a [donkeycar](http://www.donkeycar.com/).

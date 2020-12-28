@@ -1,4 +1,5 @@
 ---
+draft: true
 title: script to switch between high and low dpi displays
 author: rsokolkov
 type: post

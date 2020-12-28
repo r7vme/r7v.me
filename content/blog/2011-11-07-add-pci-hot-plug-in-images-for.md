@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Add pci hot-plug in images for Openstack.
 author: rsokolkov
 type: post

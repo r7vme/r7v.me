@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Cassandra state detected DOWN
 author: rsokolkov
 type: post

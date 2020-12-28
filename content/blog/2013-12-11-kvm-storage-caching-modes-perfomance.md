@@ -1,4 +1,5 @@
 ---
+draft: true
 title: KVM storage caching modes perfomance comparison
 author: rsokolkov
 type: post
